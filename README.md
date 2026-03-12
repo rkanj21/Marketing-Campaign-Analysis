@@ -1,4 +1,5 @@
 Marketing-Campaign-Analysis
+
 Project Objective: Checking the performance of campaigns on different marketing channels among control & experiment groups and also among different age groups and investigate reasons for high performance or underperformance of channels.
 
 Dataset: Data is for 1 month (1st-31st January) & important variables are marketing channel, ad display language, user preferred language, age group, subscribing channel etc.
